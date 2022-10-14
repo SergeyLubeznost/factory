@@ -14,6 +14,6 @@ _ _ _
 7. [Git rm](./rm.md)
 8. [Git mv](./mv.md)
 9. [Git clean](./clean.md)
-10. [Glossary]
+10. [Glossary](./glossary.md)
 _ _ _
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/license/by/3.0)
