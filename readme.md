@@ -12,7 +12,7 @@ _ _ _
 5. [Git commit](./commit.md)
 6. [Git reset](./reset.md)
 7. [Git rm](./rm.md)
-8. [Git mv](./mv)
+8. [Git mv](./mv.md)
 9. [Git clean](./clean.md)
 _ _ _
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/license/by/3.0)
